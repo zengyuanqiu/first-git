@@ -1,0 +1,1 @@
+window.__BASE_URL__ = 'http://192.168.10.120:8888/phy-dev'
