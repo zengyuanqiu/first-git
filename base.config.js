@@ -1,1 +1,0 @@
-window.__BASE_URL__ = 'http://bj-ihealthcare.com:52081/phy-test'
